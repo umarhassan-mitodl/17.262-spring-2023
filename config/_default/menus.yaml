@@ -1,0 +1,32 @@
+leftnav:
+- identifier: b64e8a84-dbc1-4e16-b37a-b6723e708c6d
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: b34f42d3-94f7-4fa0-ab80-8801a83f6e6d
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 15414914-baa0-427b-bf8c-639d5873bad2
+  name: Readings
+  pageRef: /pages/readings2
+  weight: 30
+- identifier: 39b9f874-35e3-4e4e-be4d-be6c52d1443b
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 40
+- identifier: 4047a769-fc2f-46a9-b92f-37bc2c7f1eec
+  name: Required Readings
+  pageRef: /pages/readings
+  parent: 15414914-baa0-427b-bf8c-639d5873bad2
+  weight: 10
+- identifier: 40dc8556-1a45-4067-9806-e5dee0b75da3
+  name: Additional Readings
+  pageRef: /pages/additional-readings
+  parent: 15414914-baa0-427b-bf8c-639d5873bad2
+  weight: 20
+- identifier: ec05c390-6cff-4a3b-ad5e-8e362ffcfc51
+  name: The Most Important Congressional Literature
+  pageRef: /pages/some-ways-to-think-about-the-most-important-congressional-literature
+  parent: 15414914-baa0-427b-bf8c-639d5873bad2
+  weight: 30
