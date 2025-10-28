@@ -23,7 +23,7 @@
     "website": "congress-and-the-american-political-system-ii"
   },
   "course_title": "Congress and the American Political System II",
-  "hide_download": true,
+  "hide_download": false,
   "course_description": "This course analyzes the development of the US Congress by focusing on the competing theoretical lenses through which legislatures have been studied. In particular, it compares sociological and economic models of legislative behavior, applying those models to floor decision-making, committee behavior, political parties, relations with other branches of the Federal government, and elections.",
   "department_numbers": [
     "17"
@@ -34,7 +34,6 @@
     "content": "7cd25af7-0778-42ec-a6ed-54bf05abfcab",
     "website": "congress-and-the-american-political-system-ii"
   },
-  "hide_download_original": false,
   "learning_resource_types": [
     "Written Assignments",
     "Readings"
